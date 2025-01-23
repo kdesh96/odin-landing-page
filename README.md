@@ -1,4 +1,4 @@
-# odin-flexbox
+# Project: Landing Page
 
 Hello! 
 
